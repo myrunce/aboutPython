@@ -1,0 +1,30 @@
+#top{
+    width: 1000px;
+    height: 500px;
+    background-color: #245176;
+}
+.header p{
+    display: inline-block
+}
+.searchbox{
+    width:auto;
+    height:50px;
+    background-color: #444444;
+    display: inline-block;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.searchbox form{
+    display: inline-block;
+    text-align: center;
+}
+#middle{
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+}
+#bottom{
+    width: 1000px;
+    height: 200px;
+    background-color: #245176;
+}
